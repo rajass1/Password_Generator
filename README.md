@@ -31,7 +31,8 @@ python password_generator.py
 
 📸 Preview
 
-(optional – tambahkan screenshot atau gif kalau ada)
+<img width="2706" height="1578" alt="image" src="https://github.com/user-attachments/assets/2517663a-d776-43d6-b834-492e30380612" />
+
 
 Your secure password: Wk7@h9LpZq!
 
